@@ -15,6 +15,3 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yo1o-sir)
 
 
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Yo1o-sir)
