@@ -4,7 +4,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Njupt,啥也不会的大学牲;VN+Misc)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Njupt,啥也不会的大学牲;VN+X1cT34m+Misc)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yo1o-sir)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yo1o-sir)
