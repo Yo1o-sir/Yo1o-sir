@@ -14,4 +14,3 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yo1o-sir)
 
-> 有啥事或想发啥附件的，请发送到15202650151@163.com
